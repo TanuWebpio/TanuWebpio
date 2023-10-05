@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanuWebpio
--🧑‍🎓 I'm a Student
+ -🧑‍🎓 I'm a Student
 -💻 I'm doing Computer Science Engineering from MDU
 -  I’m a Practicing & Learning to become a Java developer. 
   
