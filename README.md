@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TanuWebpio
-- 👀 I’m interested in making projects
-- 🌱 I’m currently learning Spring boot Hibernate
+-🧑‍🎓 I'm a Student
+-💻 I'm doing Computer Science Engineering from MDU
+-  I’m a Practicing & Learning to become a Java developer. 
   
 
 <!---
